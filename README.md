@@ -7,7 +7,7 @@ The system extracts tweets related to ongoing crises, performs sentiment analysi
 * In addition to this, there is a crisis incident report portal to record the incident details.
 
 # Technologies Used
-* Python3
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) <br>
 * Flask framework
 * Tweepy, NLTK, Plotly
 * Watson NLU
