@@ -11,4 +11,5 @@ The system extracts tweets related to ongoing crises, performs sentiment analysi
 * Flask framework
 * Tweepy, NLTK, Plotly
 * Watson NLU
-* HTML, CSS, Php
+* HTML, CSS
+* Php, MySQL
